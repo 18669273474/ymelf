@@ -1,1 +1,47 @@
-/* pages/welcom/welcome.wxss */
+.head2{
+	display: flex;
+  }
+  .head2>view>image{
+	width: 80rpx;
+	height: 80rpx;
+  }
+  
+  .head{
+	margin-left: 10%;
+	width: 100rpx;
+	height: 100rpx;
+  }
+  .head>view>image{
+	width: 100rpx;
+	height: 100rpx;
+	border-radius: 50%;
+  }
+  .d1{
+	margin-left: 10%;
+	font-size: 65rpx;
+  }
+  .d2{
+	margin-left: 10%;
+	font-size: 30rpx;
+	font-weight: 200;
+  }
+  
+  .ren{
+	padding-top: 15%;
+	display: flex;
+	justify-content: center;
+  }
+  .ren>image{
+	width: 500rpx;
+	height: 500rpx;
+  }
+  
+  .ren2{
+	display: flex;
+	justify-content: center;
+	font-weight: 200;
+  }
+  
+  
+  
+  
