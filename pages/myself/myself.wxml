@@ -1,0 +1,42 @@
+
+<!--pages/i/i.wxml-->
+<!-- 背景 -->
+<view class="bg">
+  <!-- 我的 -->
+<view class="me">
+  <image src="../../imgs/app.png" mode="aspectFit"/>
+  <view>
+    我的
+  </view>
+  <image src="../../imgs/app.png" mode="aspectFit"/>
+</view>
+<!-- 头像 -->
+<view class="my">
+  <view class="text">
+    <view>韩瑞</view>
+    <view>信息化管理中心</view>
+  </view>
+  <view class="img">
+    <image src="../../imgs/myimgs/avater.png" />
+  </view>
+</view>
+</view>
+<!-- 办事 -->
+<view class="things">
+  <view class="left">
+    <image src="../../imgs/appgirl.png" mode="aspectFit"/>
+    <image src="../../imgs/bgright.svg" mode="aspectFit"/>
+    <view class="midtitle">
+      <view>待办事项</view>
+      <view>我收藏的应用</view>
+    </view>
+  </view>
+  <view class="right">
+    <image src="../../imgs/appboy.png" mode="aspectFit"/>
+    <image src="../../imgs/bgleft.svg" mode="aspectFit"/>
+    <view class="midtitle">
+      <view>办事指南</view>
+      <view>办事指南汇总</view>
+    </view>
+  </view>
+</view>
