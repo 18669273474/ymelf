@@ -11,3 +11,31 @@
 新消息通知
 </view>
   <view style="height: 1px; background-color: #ccc;"></view>
+  <view class="l2">
+<image src="../../imgs/版本更新.svg"></image>
+版本更新
+</view>
+  <view style="height: 1px; background-color: #ccc;"></view>
+  <view class="l2">
+<image src="../../imgs/清除缓存.svg"></image>
+清除缓存
+</view>
+  <view style="height: 1px; background-color: #ccc;"></view>
+  <view class="l2">
+<image src="../../imgs/修改密码.svg"></image>
+修改密码
+</view>
+  <view style="height: 1px; background-color: #ccc;"></view>
+  <view class="l2">
+<image src="../../imgs/关于我们.svg"></image>
+关于我们
+</view>
+  <view style="height: 1px; background-color: #ccc;"></view>
+</view>
+
+<view class="out">
+<image src="../../imgs/退出登录.svg"></image>
+<view>
+  退出登录
+</view>
+</view>
