@@ -41,8 +41,12 @@
 	justify-content: center;
 	font-weight: 200;
   }
+  
+  
+  
+  
   /* 通底部 */
-.bottom{
+  .bottom{
 	padding-top: 30%;
 	width: 60%;
 	display: flex;
@@ -73,7 +77,3 @@
 	justify-content: space-between;
 	padding-left: 20%;
   }
-  
-  
-  
-  
