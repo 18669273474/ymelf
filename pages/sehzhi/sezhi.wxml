@@ -11,6 +11,7 @@
 新消息通知
 </view>
   <view style="height: 1px; background-color: #ccc;"></view>
+
   <view class="l2">
 <image src="../../imgs/版本更新.svg"></image>
 版本更新
