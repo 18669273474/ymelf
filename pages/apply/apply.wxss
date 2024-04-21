@@ -46,7 +46,7 @@
 	margin-right: 20rpx;
   }
   /* 办事 */
-.things{
+  .things{
 	width: 90%;
 	height: 200rpx;
 	margin: auto;
@@ -117,7 +117,7 @@
 	display: flex;
   }
   /* 推荐应用 */
-.app{
+  .app{
 	width: 90%;
 	margin: auto;
 	margin-top: 50rpx;
@@ -205,7 +205,7 @@
 	height: 40rpx;
   }
   /* 最新上线 */
-.new{
+  .new{
 	width: 90%;
 	margin: auto;
 	margin-top: 50rpx;
